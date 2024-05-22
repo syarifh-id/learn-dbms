@@ -1,0 +1,8 @@
+show databases;
+
+create database <nama_database>;
+drop database <nama_database>;
+
+use <nama_database>;
+show tables;
+
